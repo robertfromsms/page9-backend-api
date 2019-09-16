@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  product_id: MyString
+  want_have_removed: MyString
+  listing_price: MyString
+  user_id: MyString
+
+two:
+  product_id: MyString
+  want_have_removed: MyString
+  listing_price: MyString
+  user_id: MyString

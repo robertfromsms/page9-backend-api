@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  outside_ident: MyString
+  img_path: MyString
+
+two:
+  name: MyString
+  outside_ident: MyString
+  img_path: MyString

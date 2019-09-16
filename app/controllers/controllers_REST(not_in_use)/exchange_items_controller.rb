@@ -1,0 +1,2 @@
+class ExchangeItemsController < ApplicationController
+end
