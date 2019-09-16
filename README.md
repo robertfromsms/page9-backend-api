@@ -14,7 +14,7 @@ About this backend api,
 7. postgresql database
 8. output json data
 
-Information about accessing the api
+Information about accessing the api (view using raw for proper formating)
 
 query {
     users(idList: [...]) { // [User]
