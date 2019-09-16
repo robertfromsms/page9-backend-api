@@ -16,6 +16,7 @@ About this backend api,
 
 Information about accessing the api (view using raw for proper formating)
 
+POST TO https://pacific-thicket-17763.herokuapp.com/
 query {
     users(idList: [...]) { // [User]
         id // integer
@@ -54,3 +55,5 @@ The users query can query for users base on a list (in an array) of ids, if idLi
 
 You can sign up on the website, login to obtain a jwt, and use postman with jwt. Part of the Headers, include the following
 Authorization: Bearer PUT-THE-JWT-HERE
+
+contact me on here if you have any problems.
